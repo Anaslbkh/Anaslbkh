@@ -1,9 +1,9 @@
 ### Hi there, I'm Anass Lebkhaiti 👋
 I'm a fullstack developer, amateur gaming player and sports freak ✨
 
-##.## 🔭 I’m currently working on:vaccination tracker worldwide
-##.## 📖 I’m currently learning: Nuxt.js
-##.## 💡 Fun fact: I used to be a clothes' seller
+  * 🔭 I’m currently working on:vaccination tracker worldwide
+  * 📖 I’m currently learning: Nuxt.js
+  * 💡 Fun fact: I used to be a clothes' seller
 <!--
 **Anaslbkh/Anaslbkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
