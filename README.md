@@ -8,7 +8,7 @@ I'm a fullstack developer, amateur gaming player and sports freak ✨
 
 # Connect with me:
 https://www.anaslebkhaiti.ml/
-https://twitter.com/ALebkhaiti     https://anaslebkhaiti.ml/
+
 <!--
 **Anaslbkh/Anaslbkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
