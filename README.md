@@ -2,8 +2,8 @@
 
 I'm a fullstack developer, amateur gaming player and sports freak ✨
 
-  * 🔭 I’m currently working on:vaccination tracker worldwide
-  * 📖 I’m currently learning: Nuxt.js
+  * 🔭 I’m currently working with: Parkos
+  * 📖 I’m currently learning: Nuxt.js 3 - Jamstack
   * 💡 Fun fact: I used to be a clothes' seller
 
 # Connect with me:
