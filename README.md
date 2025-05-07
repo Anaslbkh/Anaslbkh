@@ -2,12 +2,12 @@
 
 I'm a fullstack developer, amateur gaming player and sports freak ✨
 
-  * 🔭 I’m currently working with: Parkos
-  * 📖 I’m currently learning: Nuxt.js 3 - Jamstack
+  * 🔭 I’m currently working on my skills and looking for a new oppertenity. trying to build cool things everyday
+  * 📖 I’m currently learning: Jamstack - Next.js - typescript
   * 💡 Fun fact: I used to be a clothes' seller
 
 # Connect with me:
-https://www.anaslebkhaiti.ml/
+[https://anass-lebkhaiti.vercel.app/](https://anass-lebkhaiti.vercel.app/)
 
 <!--
 **Anaslbkh/Anaslbkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
