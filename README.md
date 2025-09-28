@@ -27,8 +27,8 @@ I specialize in **performance (Core Web Vitals), SEO, CRO**, and modern **fronte
 ---
 
 ### 🚀 Featured Projects
-- **[Tahaqaaq](#)** – AI-powered Hadith authenticity verification app (React Native, Flask/FastAPI, Firebase, GCP, AI/NLP)  
-- **[Retro](#)** – AI workflow web app with Next.js, Zustand, TanStack Query, Gemini Nano, Banana API  
+- **[Tahaqaaq](tahaqaaq.com)** – AI-powered Hadith authenticity verification app (React Native, Flask/FastAPI, Firebase, GCP, AI/NLP)  
+- **[Retro](https://github.com/Anaslbkh/retro)** – AI workflow web app with Next.js, Zustand, TanStack Query, Gemini Nano, Banana API  
 - **[TaskTastic Kids](https://github.com/Anaslbkh/tasktastic-kids)** – Gamified productivity app for kids  
 - **[Bayān](https://github.com/Anaslbkh/bayan)** – AI-powered Arabic prompt booster  
 - **[ChartMind](https://github.com/Anaslbkh/chartmind)** – AI → charts visualization app  
